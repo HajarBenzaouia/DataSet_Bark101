@@ -4,6 +4,7 @@ Created on Thu Nov 26 21:56:08 2020
 
 @author: Hajar
 """
+
 import numpy as np 
 import pandas as pd
 import re
